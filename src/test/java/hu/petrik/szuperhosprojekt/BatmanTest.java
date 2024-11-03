@@ -14,7 +14,7 @@ class BatmanTest {
         }
 
         @Override
-        public double mekkoraAzEreje()
+        public int mekkoraAzEreje()
         {
             return 300;
         }
